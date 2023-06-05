@@ -1,0 +1,2 @@
+# GitHubCopilotHackathon
+GitHub Copilot is powered by OpenAI Codex, a new AI system created by OpenAI. OpenAI Codex has a broad knowledge of how people use code and is significantly more capable than GPT-3 in code generation, in part, because it was trained on a data set that includes a much larger concentration of public source code.
